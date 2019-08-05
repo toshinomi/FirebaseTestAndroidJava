@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17898482718",
+    "firebase_url": "https://fir-test-b7920.firebaseio.com",
+    "project_id": "fir-test-b7920",
+    "storage_bucket": "fir-test-b7920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17898482718:android:a1500777f6ed24ff",
+        "android_client_info": {
+          "package_name": "com.example.toshinomi.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17898482718-ok0gtfoffr31g9k53kv6138glkmrabl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTTDPZtkOZIfYndvgZWboEr8C00ju55g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17898482718-ok0gtfoffr31g9k53kv6138glkmrabl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
